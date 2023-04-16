@@ -1,6 +1,6 @@
 package com.iespada.helloworld;
 
-public final class Pizza {
+public class Pizza {
 
 	private String nombre;
 	private double costoDeProduccion;
